@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Soheila Qobadi Pouya
-- 👀 I’m interested in PL/SQL,Javascript,JQuery,....
-- 🌱 I’m currently learning Node.js
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Oracle APEX,PL/SQL,Javascript,JQuery,....
 - 📫 You can reach me by Follow these links:
+- https://www.youtube.com/@OracleApexTips-sw5si
 - https://ghobadipouya.ir/
 - https://www.linkedin.com/in/soheila-qobadi-pouya-50294b112/
 - https://www.instagram.com/qobadipouya/
